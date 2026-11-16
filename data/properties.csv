@@ -1,0 +1,501 @@
+city,locality,property_type,bedrooms,bathrooms,area_sqft,age_years,floor,parking,furnishing,price_inr
+Hyderabad,Tellapur,Apartment,4,3,2119,2,13,1,Semi-furnished,10868000.0
+Delhi,Noida,Apartment,4,4,1971,10,20,1,Unfurnished,14535000.0
+Delhi,Dwarka,Independent House,3,3,1568,8,1,1,Semi-furnished,14972000.0
+Delhi,Rohini,Apartment,2,2,1313,23,18,2,Unfurnished,8572000.0
+Hyderabad,Kukatpally,Apartment,2,2,1097,5,14,1,Furnished,5577000.0
+Mumbai,Thane,Independent House,3,3,1619,22,7,1,Unfurnished,18917000.0
+Mumbai,Thane,Independent House,3,3,1352,19,13,1,Unfurnished,17357000.0
+Bengaluru,Electronic City,Apartment,3,3,1543,14,15,1,Semi-furnished,7933000.0
+Pune,Hinjewadi,Apartment,2,3,1207,21,0,0,Unfurnished,6123000.0
+Kolkata,Tollygunge,Apartment,3,3,1706,10,10,1,Unfurnished,9144000.0
+Hyderabad,Gachibowli,Independent House,2,3,1160,12,23,1,Semi-furnished,9395000.0
+Hyderabad,Madhapur,Apartment,2,2,993,8,2,2,Furnished,8384000.0
+Bengaluru,Sarjapur Road,Villa,3,4,1725,11,18,0,Furnished,19928000.0
+Kolkata,Behala,Apartment,3,2,1498,11,21,1,Semi-furnished,5584000.0
+Kolkata,Behala,Apartment,3,4,1426,10,19,1,Unfurnished,5252000.0
+Hyderabad,Miyapur,Apartment,2,1,1082,24,14,1,Semi-furnished,4437000.0
+Hyderabad,Manikonda,Apartment,3,3,1742,12,16,2,Semi-furnished,7759000.0
+Bengaluru,HSR Layout,Apartment,3,3,1495,7,0,1,Furnished,15688000.0
+Kolkata,Tollygunge,Apartment,3,3,1590,18,23,0,Furnished,8084000.0
+Mumbai,Andheri,Apartment,2,1,1100,11,20,1,Furnished,26012000.0
+Pune,Baner,Apartment,4,4,2035,1,7,2,Furnished,22345000.0
+Bengaluru,HSR Layout,Independent House,3,4,1822,0,19,1,Semi-furnished,22545000.0
+Mumbai,Navi Mumbai,Apartment,4,3,1727,3,1,0,Unfurnished,25454000.0
+Mumbai,Navi Mumbai,Apartment,2,3,1349,8,24,1,Unfurnished,17385000.0
+Kolkata,Salt Lake,Apartment,3,3,1251,12,23,1,Unfurnished,7510000.0
+Mumbai,Thane,Independent House,2,2,1157,24,7,1,Semi-furnished,14591000.0
+Pune,Wakad,Villa,1,1,921,15,21,0,Semi-furnished,10424000.0
+Hyderabad,Madhapur,Villa,3,3,1351,15,19,0,Unfurnished,14036000.0
+Kolkata,Howrah,Apartment,3,4,1419,21,18,1,Semi-furnished,4691000.0
+Pune,Hinjewadi,Independent House,2,2,1601,6,5,1,Furnished,14076000.0
+Delhi,Dwarka,Apartment,2,2,1533,7,23,2,Unfurnished,12613000.0
+Hyderabad,Miyapur,Apartment,1,1,834,4,4,0,Semi-furnished,4392000.0
+Mumbai,Andheri,Apartment,3,4,1600,21,13,0,Unfurnished,37729000.0
+Hyderabad,Miyapur,Apartment,1,1,690,2,20,0,Furnished,2923000.0
+Delhi,Noida,Independent House,5,5,2239,19,15,1,Unfurnished,16533000.0
+Pune,Wakad,Independent House,2,2,1199,17,15,1,Unfurnished,7005000.0
+Hyderabad,Kondapur,Apartment,2,2,1386,8,10,1,Unfurnished,10413000.0
+Bengaluru,Hebbal,Apartment,2,3,1314,24,21,1,Furnished,10528000.0
+Mumbai,Navi Mumbai,Apartment,3,3,1399,17,12,0,Semi-furnished,18234000.0
+Delhi,Gurgaon,Apartment,4,4,1948,23,23,1,Semi-furnished,22328000.0
+Delhi,Gurgaon,Villa,2,1,1033,2,13,0,Semi-furnished,18677000.0
+Pune,Baner,Apartment,3,3,1670,12,12,1,Furnished,15658000.0
+Mumbai,Thane,Apartment,3,4,1743,19,5,1,Furnished,19266000.0
+Mumbai,Navi Mumbai,Apartment,2,2,1214,24,3,2,Semi-furnished,13854000.0
+Hyderabad,Tellapur,Apartment,4,4,1994,11,3,2,Semi-furnished,10500000.0
+Bengaluru,Electronic City,Independent House,3,2,1259,11,14,1,Unfurnished,7580000.0
+Mumbai,Borivali,Apartment,2,1,1104,7,12,1,Unfurnished,13806000.0
+Delhi,Dwarka,Apartment,4,5,2079,16,24,1,Semi-furnished,18605000.0
+Mumbai,Borivali,Apartment,2,3,1209,19,20,2,Semi-furnished,18247000.0
+Kolkata,New Town,Apartment,3,2,1379,24,5,1,Unfurnished,6400000.0
+Delhi,Noida,Independent House,3,3,1825,1,11,0,Semi-furnished,18153000.0
+Kolkata,Tollygunge,Independent House,2,2,988,1,4,1,Semi-furnished,7934000.0
+Mumbai,Navi Mumbai,Apartment,3,2,1680,22,11,0,Unfurnished,18076000.0
+Mumbai,Andheri,Apartment,3,4,1567,21,14,0,Furnished,32245000.0
+Bengaluru,Electronic City,Apartment,3,2,1789,3,11,1,Semi-furnished,11033000.0
+Pune,Hadapsar,Apartment,2,1,1096,19,15,1,Semi-furnished,5786000.0
+Delhi,Rohini,Apartment,2,2,1162,10,11,1,Semi-furnished,9607000.0
+Bengaluru,Electronic City,Apartment,3,3,1705,6,19,1,Semi-furnished,8552000.0
+Pune,Wakad,Apartment,3,2,1615,23,21,1,Semi-furnished,10455000.0
+Pune,Baner,Apartment,1,2,993,21,21,0,Unfurnished,7921000.0
+Bengaluru,Whitefield,Apartment,3,3,1542,20,17,1,Unfurnished,10383000.0
+Delhi,Gurgaon,Apartment,4,3,2371,11,19,1,Semi-furnished,23360000.0
+Mumbai,Andheri,Apartment,1,2,1014,13,11,0,Furnished,26506000.0
+Hyderabad,Manikonda,Independent House,5,5,2287,12,11,1,Unfurnished,14377000.0
+Hyderabad,Kukatpally,Apartment,2,1,1080,22,23,1,Unfurnished,4818000.0
+Hyderabad,Manikonda,Apartment,1,1,593,21,21,1,Semi-furnished,3081000.0
+Mumbai,Navi Mumbai,Apartment,2,3,1360,8,23,1,Semi-furnished,21036000.0
+Delhi,Rohini,Independent House,3,3,1424,9,8,1,Semi-furnished,11789000.0
+Hyderabad,Kondapur,Independent House,3,2,1469,8,7,0,Furnished,12722000.0
+Kolkata,Rajarhat,Apartment,1,1,924,4,17,1,Furnished,5202000.0
+Delhi,Saket,Independent House,4,4,1550,24,15,1,Unfurnished,28789000.0
+Mumbai,Borivali,Apartment,3,3,1873,2,24,1,Semi-furnished,27035000.0
+Kolkata,New Town,Independent House,2,3,1378,11,8,1,Semi-furnished,8527000.0
+Delhi,Rohini,Independent House,4,4,2089,5,0,1,Unfurnished,16926000.0
+Delhi,Gurgaon,Apartment,3,3,1462,18,9,0,Unfurnished,18107000.0
+Mumbai,Andheri,Apartment,3,4,1494,13,0,1,Furnished,38159000.0
+Kolkata,Salt Lake,Independent House,2,3,1673,7,17,1,Unfurnished,11891000.0
+Pune,Hadapsar,Apartment,2,1,985,10,20,2,Unfurnished,5641000.0
+Pune,Hinjewadi,Apartment,5,5,2103,14,1,2,Semi-furnished,11167000.0
+Bengaluru,Whitefield,Apartment,2,2,1294,7,11,1,Unfurnished,9890000.0
+Delhi,Noida,Independent House,3,3,1541,22,9,1,Furnished,11844000.0
+Kolkata,Dum Dum,Apartment,3,3,1478,21,6,1,Unfurnished,6361000.0
+Hyderabad,Kukatpally,Independent House,3,4,1738,11,23,1,Furnished,10343000.0
+Delhi,Rohini,Apartment,3,4,1854,10,16,2,Semi-furnished,14449000.0
+Hyderabad,Gachibowli,Villa,1,1,746,6,14,1,Semi-furnished,8602000.0
+Hyderabad,Gachibowli,Apartment,2,1,1418,22,17,0,Unfurnished,9106000.0
+Kolkata,Rajarhat,Apartment,1,1,704,0,2,1,Unfurnished,3503000.0
+Pune,Baner,Independent House,2,3,1431,14,6,1,Semi-furnished,15279000.0
+Mumbai,Andheri,Villa,1,2,689,17,4,0,Unfurnished,19579000.0
+Hyderabad,Gachibowli,Apartment,1,1,604,17,15,1,Semi-furnished,3799000.0
+Mumbai,Borivali,Apartment,4,4,2265,4,22,1,Unfurnished,36403000.0
+Mumbai,Powai,Apartment,5,5,2513,18,20,1,Semi-furnished,60861000.0
+Kolkata,Salt Lake,Apartment,2,3,1348,0,18,0,Unfurnished,7867000.0
+Bengaluru,HSR Layout,Independent House,2,2,1283,3,14,0,Unfurnished,12915000.0
+Hyderabad,Madhapur,Apartment,5,5,2311,0,13,1,Unfurnished,21136000.0
+Delhi,Dwarka,Apartment,3,4,1574,18,1,1,Unfurnished,13020000.0
+Delhi,Noida,Apartment,3,4,1780,21,20,1,Semi-furnished,12553000.0
+Kolkata,Howrah,Independent House,3,3,1577,17,24,1,Semi-furnished,5331000.0
+Hyderabad,Tellapur,Apartment,2,3,1133,22,16,1,Unfurnished,4395000.0
+Bengaluru,Sarjapur Road,Apartment,4,3,2014,6,5,1,Semi-furnished,15188000.0
+Pune,Wakad,Apartment,3,3,1145,19,23,0,Furnished,7160000.0
+Pune,Hadapsar,Apartment,2,3,1552,11,0,2,Semi-furnished,11075000.0
+Delhi,Noida,Apartment,2,2,1780,14,9,1,Furnished,12821000.0
+Bengaluru,Whitefield,Apartment,2,1,1242,8,4,1,Unfurnished,10399000.0
+Mumbai,Andheri,Apartment,3,3,1614,6,11,0,Semi-furnished,33693000.0
+Kolkata,Tollygunge,Apartment,2,2,1363,6,16,1,Unfurnished,7765000.0
+Hyderabad,Kondapur,Independent House,4,3,1998,24,15,2,Unfurnished,13887000.0
+Delhi,Noida,Apartment,1,1,590,18,15,1,Unfurnished,3997000.0
+Bengaluru,Whitefield,Independent House,3,3,1453,7,21,1,Semi-furnished,13173000.0
+Bengaluru,Whitefield,Villa,2,1,1201,18,2,1,Furnished,12319000.0
+Pune,Baner,Apartment,2,1,1407,21,14,1,Semi-furnished,12576000.0
+Delhi,Rohini,Apartment,4,3,1980,0,19,1,Semi-furnished,16544000.0
+Bengaluru,Electronic City,Apartment,2,1,1241,23,2,2,Unfurnished,5714000.0
+Bengaluru,HSR Layout,Apartment,1,1,1027,3,22,1,Semi-furnished,11860000.0
+Delhi,Saket,Apartment,2,1,741,20,20,1,Unfurnished,10935000.0
+Mumbai,Navi Mumbai,Apartment,2,2,1157,16,15,1,Semi-furnished,16403000.0
+Kolkata,Dum Dum,Apartment,3,3,1593,24,7,0,Semi-furnished,5610000.0
+Kolkata,Tollygunge,Apartment,2,1,1344,16,7,1,Semi-furnished,7106000.0
+Pune,Baner,Apartment,4,4,1699,4,2,1,Unfurnished,12443000.0
+Mumbai,Andheri,Independent House,5,5,2268,18,16,1,Furnished,65735000.0
+Mumbai,Navi Mumbai,Apartment,3,3,1730,12,18,1,Semi-furnished,20093000.0
+Delhi,Gurgaon,Apartment,2,2,1297,8,16,1,Semi-furnished,16019000.0
+Delhi,Rohini,Apartment,3,4,1318,6,22,0,Unfurnished,10123000.0
+Mumbai,Andheri,Apartment,4,4,2029,24,13,1,Furnished,33112000.0
+Mumbai,Andheri,Apartment,2,2,1441,9,11,0,Semi-furnished,31349000.0
+Mumbai,Borivali,Apartment,4,4,2075,8,8,1,Semi-furnished,34922000.0
+Mumbai,Andheri,Apartment,4,4,2052,21,23,1,Semi-furnished,41702000.0
+Delhi,Dwarka,Apartment,2,2,1265,15,7,1,Semi-furnished,10428000.0
+Kolkata,Salt Lake,Independent House,4,4,1850,0,0,1,Furnished,15172000.0
+Bengaluru,Hebbal,Apartment,2,3,969,7,4,0,Semi-furnished,10821000.0
+Delhi,Noida,Villa,1,1,854,19,6,1,Semi-furnished,7006000.0
+Kolkata,Behala,Apartment,2,3,1138,6,12,1,Semi-furnished,3998000.0
+Hyderabad,Manikonda,Apartment,1,1,964,24,8,1,Semi-furnished,5335000.0
+Kolkata,Rajarhat,Apartment,3,3,1369,22,20,1,Unfurnished,6356000.0
+Mumbai,Borivali,Apartment,4,4,1977,21,22,0,Semi-furnished,27249000.0
+Hyderabad,Kukatpally,Apartment,2,1,1199,2,0,1,Furnished,6963000.0
+Hyderabad,Madhapur,Independent House,4,4,1915,20,1,1,Semi-furnished,17627000.0
+Hyderabad,Kondapur,Apartment,3,4,1892,7,9,0,Unfurnished,12677000.0
+Delhi,Dwarka,Apartment,2,1,1413,20,1,2,Unfurnished,10473000.0
+Bengaluru,Whitefield,Apartment,4,4,2210,23,21,0,Unfurnished,15136000.0
+Delhi,Rohini,Independent House,3,3,1453,20,9,0,Unfurnished,10544000.0
+Mumbai,Andheri,Apartment,2,2,1225,2,20,1,Semi-furnished,28856000.0
+Hyderabad,Kukatpally,Apartment,3,4,1463,1,9,0,Furnished,8948000.0
+Hyderabad,Tellapur,Independent House,2,1,1411,21,23,0,Unfurnished,8407000.0
+Bengaluru,Whitefield,Apartment,2,2,1060,5,2,0,Unfurnished,7926000.0
+Bengaluru,Whitefield,Apartment,1,1,1267,8,6,1,Unfurnished,9760000.0
+Hyderabad,Manikonda,Apartment,1,1,572,15,10,1,Semi-furnished,3585000.0
+Hyderabad,Miyapur,Villa,1,1,969,1,8,2,Semi-furnished,6882000.0
+Delhi,Dwarka,Villa,2,3,1254,9,19,0,Unfurnished,15512000.0
+Pune,Hadapsar,Independent House,3,2,1886,16,10,1,Semi-furnished,12007000.0
+Mumbai,Borivali,Apartment,2,3,1404,14,9,1,Semi-furnished,21092000.0
+Bengaluru,HSR Layout,Apartment,1,1,798,12,18,1,Unfurnished,7205000.0
+Mumbai,Navi Mumbai,Apartment,4,3,2072,14,2,0,Furnished,26141000.0
+Mumbai,Thane,Apartment,1,2,778,23,17,1,Unfurnished,8374000.0
+Hyderabad,Tellapur,Apartment,2,2,1250,19,23,1,Semi-furnished,6234000.0
+Kolkata,New Town,Apartment,3,3,1238,5,13,2,Furnished,6181000.0
+Delhi,Dwarka,Apartment,4,4,1605,20,12,1,Furnished,12401000.0
+Bengaluru,HSR Layout,Apartment,2,2,1039,22,19,1,Unfurnished,9705000.0
+Mumbai,Borivali,Apartment,3,3,1347,17,14,1,Semi-furnished,17860000.0
+Hyderabad,Gachibowli,Apartment,3,2,1329,11,3,0,Unfurnished,8382000.0
+Pune,Hadapsar,Apartment,3,2,1916,2,14,1,Semi-furnished,11323000.0
+Pune,Hinjewadi,Apartment,3,3,1424,11,23,0,Semi-furnished,8566000.0
+Pune,Hadapsar,Apartment,4,5,1740,2,7,1,Unfurnished,10431000.0
+Hyderabad,Gachibowli,Apartment,2,3,1175,24,1,2,Unfurnished,7321000.0
+Pune,Wakad,Villa,1,1,1091,17,13,2,Furnished,8662000.0
+Mumbai,Navi Mumbai,Independent House,3,2,1630,24,22,2,Semi-furnished,15182000.0
+Bengaluru,Electronic City,Apartment,2,1,1256,2,18,1,Semi-furnished,6019000.0
+Hyderabad,Tellapur,Apartment,2,2,921,7,24,0,Semi-furnished,4852000.0
+Delhi,Noida,Apartment,1,2,845,1,3,1,Furnished,7397000.0
+Kolkata,Behala,Apartment,3,3,1979,16,21,2,Unfurnished,6191000.0
+Bengaluru,Sarjapur Road,Apartment,4,4,1964,19,3,0,Unfurnished,13404000.0
+Pune,Hinjewadi,Apartment,2,2,1351,22,4,2,Unfurnished,6129000.0
+Pune,Baner,Apartment,3,3,1525,24,2,1,Semi-furnished,12172000.0
+Bengaluru,Hebbal,Apartment,3,3,1649,14,24,1,Furnished,13706000.0
+Mumbai,Thane,Independent House,3,4,1532,10,11,1,Semi-furnished,22055000.0
+Pune,Baner,Apartment,5,5,2174,14,10,1,Semi-furnished,15617000.0
+Bengaluru,Electronic City,Apartment,3,3,1618,4,9,1,Furnished,8563000.0
+Pune,Baner,Villa,2,1,1529,9,7,1,Furnished,19671000.0
+Kolkata,Behala,Apartment,2,3,1006,3,9,1,Unfurnished,3505000.0
+Kolkata,Howrah,Apartment,2,2,1294,14,18,1,Semi-furnished,3802000.0
+Kolkata,Salt Lake,Apartment,2,2,1204,9,17,1,Unfurnished,7724000.0
+Kolkata,Rajarhat,Apartment,2,1,900,22,5,1,Furnished,4496000.0
+Pune,Kharadi,Independent House,5,5,1852,22,20,1,Semi-furnished,17291000.0
+Delhi,Gurgaon,Apartment,2,1,1334,11,14,1,Furnished,19825000.0
+Mumbai,Andheri,Independent House,4,4,1801,21,2,1,Semi-furnished,40481000.0
+Delhi,Noida,Villa,2,2,1103,15,7,0,Unfurnished,9721000.0
+Pune,Hadapsar,Apartment,4,4,1853,4,18,1,Unfurnished,10956000.0
+Kolkata,Howrah,Apartment,3,2,1440,24,6,2,Unfurnished,4362000.0
+Delhi,Saket,Apartment,3,3,1658,9,18,0,Unfurnished,27686000.0
+Delhi,Rohini,Apartment,2,3,1213,18,20,0,Semi-furnished,7706000.0
+Hyderabad,Kondapur,Apartment,2,2,1162,11,18,1,Semi-furnished,8110000.0
+Delhi,Dwarka,Apartment,4,4,2228,24,18,1,Unfurnished,19172000.0
+Hyderabad,Madhapur,Apartment,2,1,1326,19,5,1,Unfurnished,10220000.0
+Delhi,Dwarka,Apartment,4,4,2050,23,5,1,Semi-furnished,15021000.0
+Hyderabad,Madhapur,Apartment,3,3,1799,22,15,1,Unfurnished,14458000.0
+Delhi,Noida,Apartment,3,4,1624,15,3,1,Furnished,10062000.0
+Delhi,Saket,Independent House,3,2,1349,20,4,1,Unfurnished,18266000.0
+Mumbai,Andheri,Apartment,3,3,1569,20,19,2,Unfurnished,32456000.0
+Kolkata,Behala,Apartment,2,2,1306,24,0,2,Furnished,4113000.0
+Mumbai,Andheri,Apartment,5,5,2201,14,10,1,Unfurnished,41837000.0
+Pune,Wakad,Villa,4,3,2036,19,5,1,Semi-furnished,16622000.0
+Bengaluru,HSR Layout,Apartment,3,2,1508,15,12,0,Unfurnished,13224000.0
+Mumbai,Thane,Apartment,4,4,1869,18,13,1,Semi-furnished,19514000.0
+Kolkata,Rajarhat,Apartment,3,2,2003,19,5,0,Furnished,8584000.0
+Hyderabad,Miyapur,Independent House,3,2,1923,11,1,0,Furnished,9929000.0
+Pune,Hinjewadi,Apartment,2,2,1067,4,22,2,Unfurnished,6321000.0
+Kolkata,Salt Lake,Apartment,2,1,1127,24,2,0,Furnished,6682000.0
+Hyderabad,Gachibowli,Apartment,4,5,1954,10,13,1,Semi-furnished,15637000.0
+Kolkata,Tollygunge,Apartment,3,3,1618,3,18,1,Unfurnished,10032000.0
+Kolkata,Behala,Apartment,3,4,1516,18,5,1,Furnished,5223000.0
+Delhi,Saket,Apartment,3,3,1890,15,3,0,Semi-furnished,26172000.0
+Pune,Baner,Apartment,2,2,1215,10,2,1,Semi-furnished,13167000.0
+Mumbai,Andheri,Independent House,3,4,1612,11,13,1,Furnished,35892000.0
+Bengaluru,HSR Layout,Apartment,3,3,1737,10,12,1,Furnished,19423000.0
+Pune,Baner,Villa,2,2,1291,5,3,0,Semi-furnished,15085000.0
+Hyderabad,Kukatpally,Apartment,3,3,1574,2,23,0,Semi-furnished,9094000.0
+Bengaluru,Hebbal,Apartment,3,2,1273,22,23,1,Furnished,8577000.0
+Pune,Hadapsar,Apartment,2,1,1268,15,14,2,Furnished,8335000.0
+Bengaluru,Hebbal,Independent House,4,4,2167,13,16,1,Semi-furnished,23748000.0
+Mumbai,Powai,Independent House,3,4,1609,0,8,1,Semi-furnished,47688000.0
+Pune,Kharadi,Apartment,3,3,1446,8,13,0,Furnished,10778000.0
+Hyderabad,Gachibowli,Independent House,3,2,1534,24,7,0,Semi-furnished,11227000.0
+Mumbai,Thane,Apartment,3,2,1571,21,2,1,Semi-furnished,14078000.0
+Hyderabad,Kondapur,Independent House,4,3,1986,13,4,2,Semi-furnished,15249000.0
+Delhi,Rohini,Apartment,3,4,1396,23,21,1,Semi-furnished,11686000.0
+Bengaluru,Hebbal,Apartment,2,1,1162,8,0,1,Semi-furnished,8996000.0
+Pune,Kharadi,Independent House,3,4,1774,11,15,1,Unfurnished,14539000.0
+Pune,Baner,Apartment,2,2,1057,14,23,0,Furnished,9117000.0
+Kolkata,Dum Dum,Villa,1,1,905,24,4,2,Semi-furnished,4625000.0
+Delhi,Dwarka,Apartment,3,4,1495,15,14,0,Semi-furnished,11147000.0
+Mumbai,Navi Mumbai,Independent House,2,2,1230,7,23,1,Semi-furnished,19292000.0
+Delhi,Rohini,Apartment,4,3,2179,2,5,1,Semi-furnished,16173000.0
+Mumbai,Andheri,Apartment,4,3,1976,17,16,0,Unfurnished,36610000.0
+Delhi,Noida,Apartment,2,2,1249,3,7,1,Furnished,10359000.0
+Kolkata,Howrah,Apartment,4,3,1911,2,8,1,Unfurnished,6080000.0
+Delhi,Dwarka,Apartment,2,2,1224,5,11,1,Semi-furnished,10588000.0
+Bengaluru,Whitefield,Apartment,2,3,1370,2,10,1,Semi-furnished,11702000.0
+Hyderabad,Tellapur,Apartment,3,4,1466,3,0,1,Unfurnished,6676000.0
+Mumbai,Thane,Independent House,4,5,1999,15,6,1,Semi-furnished,23423000.0
+Mumbai,Andheri,Villa,1,2,766,23,13,0,Unfurnished,22611000.0
+Kolkata,New Town,Apartment,4,3,2066,11,3,1,Unfurnished,9888000.0
+Delhi,Gurgaon,Apartment,2,2,1321,18,12,2,Unfurnished,14188000.0
+Mumbai,Borivali,Apartment,2,3,797,9,8,2,Unfurnished,13643000.0
+Pune,Hinjewadi,Apartment,2,1,1161,11,4,1,Unfurnished,6778000.0
+Bengaluru,Sarjapur Road,Apartment,2,1,1005,21,1,0,Furnished,6447000.0
+Pune,Kharadi,Apartment,2,1,1725,16,18,0,Furnished,13358000.0
+Kolkata,Behala,Apartment,3,3,1354,8,13,1,Semi-furnished,4940000.0
+Hyderabad,Kukatpally,Apartment,4,4,1926,6,0,0,Unfurnished,9822000.0
+Mumbai,Thane,Apartment,2,2,1234,9,24,1,Unfurnished,13526000.0
+Bengaluru,Sarjapur Road,Independent House,5,4,2452,1,12,1,Unfurnished,21813000.0
+Hyderabad,Tellapur,Independent House,4,3,2099,19,17,1,Furnished,9489000.0
+Mumbai,Borivali,Independent House,1,2,758,3,0,1,Semi-furnished,16782000.0
+Pune,Hadapsar,Apartment,2,3,1306,1,16,1,Semi-furnished,8219000.0
+Bengaluru,Whitefield,Apartment,4,5,2091,18,8,1,Semi-furnished,15961000.0
+Bengaluru,Electronic City,Apartment,2,2,1150,10,12,1,Furnished,5733000.0
+Mumbai,Powai,Independent House,2,3,1282,13,4,1,Semi-furnished,34397000.0
+Hyderabad,Manikonda,Apartment,3,3,1477,1,8,1,Unfurnished,8798000.0
+Pune,Wakad,Apartment,1,1,697,6,22,0,Unfurnished,4313000.0
+Bengaluru,Hebbal,Apartment,2,2,1079,24,19,1,Semi-furnished,8913000.0
+Bengaluru,HSR Layout,Apartment,4,3,1834,8,7,1,Semi-furnished,17783000.0
+Kolkata,Salt Lake,Independent House,2,2,1321,1,14,1,Unfurnished,10164000.0
+Hyderabad,Kukatpally,Villa,3,2,1602,12,3,1,Semi-furnished,12120000.0
+Bengaluru,Sarjapur Road,Apartment,2,2,1246,9,4,1,Semi-furnished,8996000.0
+Kolkata,Salt Lake,Apartment,3,3,1615,7,14,2,Semi-furnished,10189000.0
+Delhi,Gurgaon,Apartment,2,2,1374,24,20,0,Semi-furnished,14722000.0
+Bengaluru,Hebbal,Apartment,3,4,1347,14,15,1,Semi-furnished,10336000.0
+Pune,Hadapsar,Apartment,3,2,1698,21,18,1,Unfurnished,8153000.0
+Pune,Kharadi,Apartment,1,1,873,17,19,0,Unfurnished,7258000.0
+Hyderabad,Miyapur,Apartment,2,2,1323,0,1,0,Unfurnished,7021000.0
+Mumbai,Borivali,Independent House,2,3,835,21,10,1,Semi-furnished,14788000.0
+Kolkata,Behala,Independent House,5,5,2186,9,0,1,Unfurnished,9378000.0
+Kolkata,New Town,Apartment,4,5,2030,23,1,1,Unfurnished,8938000.0
+Bengaluru,HSR Layout,Apartment,2,2,1147,12,20,1,Furnished,12175000.0
+Pune,Kharadi,Apartment,4,4,2347,13,14,0,Unfurnished,19878000.0
+Pune,Kharadi,Apartment,3,4,1757,21,17,0,Unfurnished,12040000.0
+Delhi,Saket,Apartment,3,4,1662,7,19,1,Semi-furnished,29663000.0
+Bengaluru,Whitefield,Independent House,1,1,1112,22,2,1,Unfurnished,9357000.0
+Pune,Hinjewadi,Apartment,2,2,1453,17,7,1,Semi-furnished,8096000.0
+Mumbai,Borivali,Apartment,2,3,1409,21,2,0,Unfurnished,19877000.0
+Kolkata,Rajarhat,Villa,1,2,1058,2,1,1,Semi-furnished,5501000.0
+Pune,Hinjewadi,Apartment,5,5,2290,4,12,1,Semi-furnished,14006000.0
+Hyderabad,Miyapur,Independent House,3,4,1228,13,13,1,Unfurnished,7037000.0
+Pune,Kharadi,Villa,2,3,1321,12,8,1,Semi-furnished,13110000.0
+Hyderabad,Tellapur,Apartment,2,3,1220,20,2,2,Semi-furnished,5864000.0
+Hyderabad,Miyapur,Apartment,3,4,1553,17,21,1,Semi-furnished,6414000.0
+Pune,Hinjewadi,Apartment,2,2,1232,9,24,0,Unfurnished,6876000.0
+Bengaluru,Electronic City,Apartment,1,2,848,14,18,1,Semi-furnished,4153000.0
+Pune,Wakad,Apartment,3,4,1452,19,2,1,Semi-furnished,7065000.0
+Pune,Kharadi,Apartment,3,2,1310,18,22,1,Semi-furnished,9305000.0
+Mumbai,Navi Mumbai,Independent House,3,3,1552,6,9,0,Unfurnished,24649000.0
+Hyderabad,Kondapur,Villa,3,4,1909,2,5,1,Semi-furnished,18286000.0
+Bengaluru,HSR Layout,Apartment,3,4,1432,4,10,0,Furnished,15665000.0
+Pune,Baner,Apartment,2,2,1379,12,4,1,Furnished,13208000.0
+Hyderabad,Tellapur,Apartment,4,4,1819,1,13,1,Semi-furnished,8834000.0
+Delhi,Dwarka,Apartment,2,2,1016,3,0,1,Unfurnished,8511000.0
+Kolkata,Rajarhat,Apartment,3,3,1521,10,3,2,Furnished,6614000.0
+Kolkata,Behala,Apartment,3,3,1729,0,0,1,Semi-furnished,6719000.0
+Delhi,Rohini,Apartment,3,2,1744,12,8,1,Semi-furnished,13754000.0
+Hyderabad,Manikonda,Apartment,2,2,1110,13,6,1,Furnished,6255000.0
+Bengaluru,Electronic City,Apartment,2,2,1411,21,0,1,Semi-furnished,7389000.0
+Kolkata,Tollygunge,Apartment,2,2,1137,2,11,2,Unfurnished,6257000.0
+Pune,Kharadi,Independent House,3,4,1309,6,17,1,Unfurnished,12396000.0
+Bengaluru,Whitefield,Independent House,1,1,996,0,15,1,Unfurnished,10345000.0
+Bengaluru,Whitefield,Independent House,4,4,1930,21,3,1,Furnished,14389000.0
+Bengaluru,Electronic City,Villa,4,5,2029,16,13,1,Unfurnished,12369000.0
+Bengaluru,Electronic City,Apartment,3,3,1314,7,22,1,Semi-furnished,6800000.0
+Hyderabad,Madhapur,Apartment,2,2,1483,20,22,1,Furnished,14868000.0
+Delhi,Saket,Apartment,2,3,1314,8,8,1,Unfurnished,21302000.0
+Pune,Baner,Independent House,3,2,1664,10,6,0,Furnished,15191000.0
+Bengaluru,Hebbal,Independent House,3,3,1678,6,7,1,Semi-furnished,17148000.0
+Hyderabad,Miyapur,Independent House,5,4,2399,20,9,1,Furnished,12746000.0
+Mumbai,Powai,Apartment,2,2,1479,17,9,1,Unfurnished,30490000.0
+Pune,Hadapsar,Independent House,1,1,653,11,7,1,Semi-furnished,3648000.0
+Pune,Wakad,Apartment,2,2,1108,17,18,1,Furnished,8761000.0
+Kolkata,Salt Lake,Apartment,2,2,1470,5,18,1,Semi-furnished,8868000.0
+Mumbai,Andheri,Independent House,5,5,2525,13,0,1,Furnished,60383000.0
+Mumbai,Powai,Apartment,3,2,1437,11,12,1,Unfurnished,34835000.0
+Delhi,Noida,Apartment,2,3,1267,0,21,1,Semi-furnished,9304000.0
+Bengaluru,Whitefield,Apartment,3,3,1676,8,16,0,Semi-furnished,12989000.0
+Bengaluru,Sarjapur Road,Apartment,4,3,1956,17,7,1,Unfurnished,12672000.0
+Pune,Baner,Apartment,3,2,1866,14,24,1,Unfurnished,14591000.0
+Hyderabad,Manikonda,Independent House,2,2,1263,19,12,0,Unfurnished,6053000.0
+Pune,Hadapsar,Apartment,4,5,1897,21,12,1,Semi-furnished,11201000.0
+Mumbai,Navi Mumbai,Apartment,2,3,1382,14,23,1,Semi-furnished,17774000.0
+Mumbai,Borivali,Apartment,3,2,1591,1,5,1,Semi-furnished,27862000.0
+Mumbai,Thane,Apartment,1,1,695,2,15,1,Unfurnished,7797000.0
+Kolkata,Behala,Apartment,4,4,1931,20,17,1,Furnished,8238000.0
+Hyderabad,Gachibowli,Apartment,2,2,1079,18,19,2,Semi-furnished,6867000.0
+Bengaluru,Electronic City,Apartment,2,2,1413,18,19,0,Unfurnished,6834000.0
+Kolkata,Rajarhat,Apartment,3,2,1619,19,14,1,Furnished,7540000.0
+Mumbai,Navi Mumbai,Apartment,4,5,1685,18,1,0,Furnished,17591000.0
+Bengaluru,Whitefield,Apartment,2,1,1404,18,17,1,Semi-furnished,10190000.0
+Pune,Wakad,Apartment,3,3,1679,10,18,0,Semi-furnished,12575000.0
+Kolkata,Behala,Independent House,2,1,1230,6,10,1,Unfurnished,5014000.0
+Kolkata,Dum Dum,Apartment,2,3,1354,10,17,1,Unfurnished,4930000.0
+Pune,Hadapsar,Apartment,3,2,1454,5,0,1,Semi-furnished,9423000.0
+Bengaluru,Sarjapur Road,Apartment,2,1,1178,10,8,0,Unfurnished,7153000.0
+Pune,Wakad,Apartment,3,3,1338,10,0,2,Unfurnished,8792000.0
+Kolkata,Salt Lake,Villa,3,3,1317,24,18,2,Unfurnished,9376000.0
+Hyderabad,Kukatpally,Apartment,4,4,1999,10,24,1,Semi-furnished,11676000.0
+Pune,Hinjewadi,Villa,3,4,1422,3,12,1,Semi-furnished,11193000.0
+Pune,Hadapsar,Independent House,1,1,740,19,24,0,Unfurnished,4513000.0
+Pune,Hinjewadi,Apartment,3,3,1466,9,8,1,Unfurnished,9151000.0
+Mumbai,Navi Mumbai,Apartment,2,3,1124,17,2,1,Unfurnished,10253000.0
+Delhi,Rohini,Independent House,2,2,1307,10,3,1,Furnished,12506000.0
+Kolkata,Dum Dum,Independent House,2,1,1172,19,12,1,Unfurnished,4623000.0
+Kolkata,Salt Lake,Independent House,3,4,1487,2,18,1,Semi-furnished,12381000.0
+Pune,Hadapsar,Apartment,2,2,1148,4,16,0,Furnished,7735000.0
+Bengaluru,HSR Layout,Apartment,3,3,1920,21,4,1,Unfurnished,19785000.0
+Pune,Hinjewadi,Apartment,1,1,757,23,4,1,Semi-furnished,3590000.0
+Hyderabad,Kondapur,Apartment,3,4,1370,16,3,2,Unfurnished,9563000.0
+Kolkata,Behala,Apartment,3,3,1841,9,19,1,Unfurnished,7422000.0
+Mumbai,Navi Mumbai,Apartment,4,4,1998,17,13,1,Furnished,22672000.0
+Kolkata,Behala,Apartment,2,2,812,14,11,1,Unfurnished,2846000.0
+Bengaluru,Sarjapur Road,Independent House,3,3,1595,19,9,1,Unfurnished,13785000.0
+Hyderabad,Gachibowli,Apartment,1,1,1054,14,15,1,Furnished,8078000.0
+Bengaluru,Electronic City,Independent House,5,5,2186,16,17,1,Furnished,14210000.0
+Delhi,Noida,Independent House,3,3,1523,4,3,0,Unfurnished,14467000.0
+Mumbai,Powai,Apartment,4,3,2366,11,22,0,Semi-furnished,62164000.0
+Bengaluru,Sarjapur Road,Villa,3,2,1934,2,21,2,Unfurnished,16013000.0
+Hyderabad,Miyapur,Apartment,2,1,1641,16,7,1,Unfurnished,6651000.0
+Mumbai,Powai,Apartment,4,4,1612,9,24,1,Unfurnished,35528000.0
+Kolkata,Rajarhat,Apartment,2,1,1365,4,1,1,Semi-furnished,6760000.0
+Delhi,Saket,Apartment,2,2,1322,7,7,1,Semi-furnished,20746000.0
+Hyderabad,Kukatpally,Apartment,2,3,1156,6,24,0,Unfurnished,6591000.0
+Kolkata,Howrah,Apartment,2,2,1086,6,3,1,Furnished,3606000.0
+Kolkata,Dum Dum,Apartment,1,1,1080,19,14,0,Semi-furnished,3925000.0
+Delhi,Dwarka,Apartment,5,5,2176,6,20,1,Semi-furnished,20786000.0
+Hyderabad,Manikonda,Apartment,1,1,586,8,20,0,Unfurnished,3377000.0
+Hyderabad,Tellapur,Independent House,2,1,1042,3,24,0,Semi-furnished,6757000.0
+Hyderabad,Miyapur,Apartment,2,3,1550,15,7,1,Semi-furnished,7320000.0
+Delhi,Saket,Apartment,4,4,2138,17,0,1,Furnished,34022000.0
+Mumbai,Powai,Apartment,1,2,1086,18,3,0,Unfurnished,22802000.0
+Delhi,Gurgaon,Apartment,3,2,1656,18,9,1,Unfurnished,18345000.0
+Pune,Hadapsar,Independent House,4,4,1836,16,13,1,Unfurnished,11088000.0
+Delhi,Rohini,Apartment,2,1,1421,24,19,1,Unfurnished,13070000.0
+Pune,Hinjewadi,Apartment,2,2,1303,20,0,1,Unfurnished,6740000.0
+Mumbai,Borivali,Apartment,3,3,1496,4,10,0,Semi-furnished,21829000.0
+Pune,Hinjewadi,Apartment,4,3,2054,8,17,1,Semi-furnished,10822000.0
+Kolkata,Howrah,Apartment,3,3,1717,7,20,1,Semi-furnished,4608000.0
+Pune,Baner,Apartment,2,2,1304,20,2,1,Semi-furnished,11040000.0
+Hyderabad,Gachibowli,Apartment,1,1,819,21,8,1,Unfurnished,5463000.0
+Bengaluru,HSR Layout,Apartment,4,3,1738,16,17,1,Furnished,19522000.0
+Mumbai,Powai,Apartment,1,1,821,11,0,1,Unfurnished,18279000.0
+Delhi,Gurgaon,Apartment,2,1,1065,10,11,1,Semi-furnished,15309000.0
+Bengaluru,Sarjapur Road,Villa,3,3,1317,21,11,0,Furnished,11932000.0
+Bengaluru,Sarjapur Road,Villa,3,4,1704,1,5,1,Unfurnished,19223000.0
+Hyderabad,Tellapur,Apartment,3,4,1726,12,1,1,Unfurnished,7390000.0
+Mumbai,Andheri,Apartment,2,1,1297,20,13,1,Semi-furnished,29269000.0
+Pune,Hadapsar,Apartment,4,4,1897,17,0,1,Semi-furnished,10102000.0
+Bengaluru,Electronic City,Independent House,2,1,1296,8,18,0,Unfurnished,7005000.0
+Mumbai,Powai,Independent House,3,3,1544,8,9,0,Unfurnished,37148000.0
+Hyderabad,Kondapur,Apartment,2,3,1172,12,14,1,Unfurnished,7033000.0
+Mumbai,Andheri,Apartment,2,2,1170,14,17,1,Unfurnished,22727000.0
+Hyderabad,Manikonda,Apartment,4,4,2035,12,18,0,Furnished,14729000.0
+Bengaluru,Sarjapur Road,Apartment,4,5,2047,16,13,0,Semi-furnished,13793000.0
+Delhi,Noida,Apartment,2,2,1263,17,6,0,Semi-furnished,9851000.0
+Delhi,Noida,Apartment,3,2,1628,21,1,1,Semi-furnished,11748000.0
+Hyderabad,Manikonda,Independent House,3,4,1603,12,18,1,Unfurnished,9666000.0
+Hyderabad,Kukatpally,Apartment,2,1,963,1,19,0,Furnished,6126000.0
+Bengaluru,Sarjapur Road,Apartment,2,2,1270,13,16,1,Furnished,10481000.0
+Hyderabad,Tellapur,Apartment,5,5,2214,3,14,1,Unfurnished,10905000.0
+Pune,Baner,Apartment,2,3,1322,9,2,1,Semi-furnished,11396000.0
+Delhi,Rohini,Independent House,3,3,1500,15,0,0,Furnished,13509000.0
+Kolkata,Dum Dum,Independent House,1,1,935,11,11,0,Unfurnished,3915000.0
+Mumbai,Thane,Apartment,2,3,1057,19,24,1,Semi-furnished,11398000.0
+Bengaluru,Electronic City,Apartment,2,2,924,22,4,1,Semi-furnished,4609000.0
+Delhi,Dwarka,Apartment,3,4,1884,19,5,1,Semi-furnished,15295000.0
+Delhi,Noida,Apartment,2,1,1179,17,18,1,Furnished,8873000.0
+Mumbai,Borivali,Apartment,3,3,1780,0,14,1,Furnished,34276000.0
+Bengaluru,Sarjapur Road,Villa,3,2,1327,24,11,1,Semi-furnished,12870000.0
+Delhi,Dwarka,Independent House,3,3,1927,21,2,1,Semi-furnished,16855000.0
+Mumbai,Thane,Apartment,4,4,2126,1,24,1,Unfurnished,28148000.0
+Hyderabad,Kondapur,Apartment,3,4,1640,5,7,1,Semi-furnished,11570000.0
+Bengaluru,Sarjapur Road,Apartment,2,3,1323,24,4,1,Furnished,10240000.0
+Hyderabad,Madhapur,Apartment,2,2,1333,23,12,2,Semi-furnished,10336000.0
+Pune,Kharadi,Apartment,4,4,2111,24,8,1,Semi-furnished,16485000.0
+Mumbai,Andheri,Independent House,2,2,1033,22,11,1,Semi-furnished,26661000.0
+Bengaluru,Sarjapur Road,Independent House,1,1,840,19,15,1,Furnished,6126000.0
+Bengaluru,HSR Layout,Apartment,3,3,1676,11,20,1,Furnished,14994000.0
+Kolkata,New Town,Villa,4,4,1938,23,5,1,Unfurnished,11643000.0
+Bengaluru,HSR Layout,Villa,1,1,826,6,6,0,Unfurnished,11622000.0
+Bengaluru,Sarjapur Road,Apartment,4,4,2225,17,11,0,Unfurnished,13098000.0
+Bengaluru,Electronic City,Apartment,2,2,1101,10,16,1,Furnished,5935000.0
+Delhi,Gurgaon,Apartment,1,1,1058,14,19,1,Unfurnished,12965000.0
+Bengaluru,Whitefield,Independent House,3,2,1564,17,0,1,Unfurnished,14024000.0
+Mumbai,Navi Mumbai,Apartment,2,2,1474,21,19,0,Unfurnished,18305000.0
+Kolkata,Howrah,Apartment,2,2,1227,13,1,0,Furnished,4153000.0
+Kolkata,Behala,Apartment,2,2,1589,3,24,1,Semi-furnished,5463000.0
+Bengaluru,Hebbal,Apartment,3,3,1591,9,8,1,Unfurnished,12785000.0
+Hyderabad,Tellapur,Apartment,2,1,938,4,19,1,Furnished,5782000.0
+Hyderabad,Kondapur,Apartment,3,3,1849,19,13,1,Semi-furnished,10892000.0
+Pune,Hinjewadi,Apartment,2,1,1262,6,10,1,Unfurnished,7205000.0
+Pune,Kharadi,Apartment,2,2,1089,17,21,1,Furnished,8852000.0
+Delhi,Noida,Independent House,3,4,1723,23,14,1,Semi-furnished,11401000.0
+Bengaluru,Whitefield,Independent House,3,3,1371,15,6,1,Semi-furnished,11207000.0
+Kolkata,Dum Dum,Apartment,3,3,1533,24,5,1,Semi-furnished,5839000.0
+Kolkata,Behala,Apartment,4,3,1920,0,2,1,Unfurnished,7274000.0
+Mumbai,Andheri,Apartment,1,2,851,11,3,1,Unfurnished,17975000.0
+Mumbai,Andheri,Villa,2,2,911,11,8,0,Unfurnished,27797000.0
+Bengaluru,Hebbal,Apartment,2,2,1335,15,16,2,Semi-furnished,9714000.0
+Delhi,Saket,Apartment,3,4,1722,20,18,2,Unfurnished,27365000.0
+Kolkata,Dum Dum,Apartment,3,2,1419,24,13,1,Semi-furnished,4591000.0
+Hyderabad,Miyapur,Apartment,2,2,1341,2,16,1,Semi-furnished,6926000.0
+Hyderabad,Madhapur,Apartment,2,2,1093,4,6,0,Semi-furnished,9860000.0
+Hyderabad,Miyapur,Independent House,3,4,1582,21,14,0,Semi-furnished,7872000.0
+Delhi,Saket,Apartment,3,3,2083,19,10,1,Unfurnished,34100000.0
+Pune,Wakad,Apartment,2,2,1111,15,15,1,Semi-furnished,7012000.0
+Pune,Baner,Apartment,2,3,1460,0,19,1,Semi-furnished,12841000.0
+Mumbai,Powai,Apartment,4,4,1926,9,18,1,Unfurnished,43910000.0
+Pune,Baner,Apartment,2,2,1228,15,6,1,Semi-furnished,10812000.0
+Kolkata,Tollygunge,Apartment,1,1,972,0,8,2,Unfurnished,6016000.0
+Hyderabad,Madhapur,Apartment,2,3,925,5,4,0,Furnished,8462000.0
+Hyderabad,Madhapur,Villa,1,1,798,8,17,2,Semi-furnished,8220000.0
+Kolkata,Dum Dum,Apartment,5,5,2140,23,10,0,Semi-furnished,7396000.0
+Kolkata,Behala,Villa,3,3,1458,0,10,0,Unfurnished,7815000.0
+Mumbai,Borivali,Apartment,3,2,1795,20,11,1,Furnished,28422000.0
+Delhi,Dwarka,Independent House,2,2,1204,4,7,1,Semi-furnished,12499000.0
+Mumbai,Powai,Apartment,4,4,2324,23,1,1,Semi-furnished,55097000.0
+Kolkata,New Town,Independent House,3,2,1364,5,12,0,Semi-furnished,7841000.0
+Bengaluru,Sarjapur Road,Apartment,2,2,1387,1,23,0,Semi-furnished,10379000.0
+Kolkata,Salt Lake,Apartment,1,2,881,21,7,1,Furnished,6034000.0
+Mumbai,Navi Mumbai,Apartment,3,2,1414,23,16,1,Unfurnished,15989000.0
+Hyderabad,Gachibowli,Apartment,2,2,1022,10,12,0,Semi-furnished,7733000.0
+Pune,Hadapsar,Apartment,3,3,1839,1,15,0,Unfurnished,10395000.0
+Kolkata,Dum Dum,Apartment,2,2,1033,5,5,1,Unfurnished,4235000.0
+Hyderabad,Kukatpally,Villa,5,5,2211,10,17,1,Unfurnished,15220000.0
+Hyderabad,Miyapur,Apartment,2,1,1061,16,17,1,Furnished,6189000.0
+Kolkata,Tollygunge,Apartment,2,2,1198,4,6,1,Unfurnished,7142000.0
+Pune,Baner,Apartment,3,2,1602,20,11,0,Semi-furnished,10868000.0
+Delhi,Dwarka,Apartment,4,4,2019,23,10,1,Semi-furnished,16764000.0
+Pune,Wakad,Apartment,3,3,1548,20,3,1,Unfurnished,10691000.0
+Pune,Wakad,Independent House,2,2,1230,3,16,1,Unfurnished,9144000.0
+Delhi,Rohini,Apartment,3,3,1470,4,16,1,Semi-furnished,13792000.0
+Kolkata,Howrah,Apartment,4,4,1919,20,12,1,Unfurnished,4993000.0
+Delhi,Rohini,Independent House,2,1,1529,20,22,0,Semi-furnished,12596000.0
+Pune,Baner,Apartment,1,1,836,16,10,0,Semi-furnished,6037000.0
+Pune,Wakad,Independent House,2,2,1288,22,23,1,Semi-furnished,9643000.0
+Mumbai,Thane,Apartment,3,3,1489,4,3,1,Semi-furnished,20454000.0
+Kolkata,Rajarhat,Independent House,2,2,1319,10,13,1,Furnished,7311000.0
+Delhi,Gurgaon,Independent House,4,4,1940,8,15,1,Semi-furnished,26597000.0
+Mumbai,Andheri,Apartment,4,4,1809,13,12,2,Semi-furnished,37714000.0
+Bengaluru,Sarjapur Road,Villa,2,3,1339,11,14,2,Semi-furnished,13438000.0
+Mumbai,Thane,Apartment,3,3,1574,3,12,1,Semi-furnished,17510000.0
+Pune,Wakad,Apartment,1,1,890,11,10,0,Semi-furnished,6327000.0
+Kolkata,New Town,Apartment,3,3,1747,11,11,1,Unfurnished,8432000.0
+Hyderabad,Gachibowli,Apartment,2,2,1270,7,13,1,Semi-furnished,7388000.0
+Delhi,Gurgaon,Apartment,3,2,1840,22,24,1,Furnished,20144000.0
+Mumbai,Navi Mumbai,Apartment,3,4,1746,16,16,1,Unfurnished,18978000.0
+Delhi,Rohini,Independent House,3,3,1987,22,3,0,Semi-furnished,17480000.0
+Bengaluru,Hebbal,Apartment,4,5,2034,12,23,1,Unfurnished,19744000.0
+Hyderabad,Miyapur,Independent House,1,1,1097,0,18,1,Unfurnished,6221000.0
+Pune,Baner,Apartment,3,2,1496,11,6,1,Unfurnished,11411000.0
+Hyderabad,Kondapur,Villa,3,2,1726,7,0,1,Unfurnished,15596000.0
+Pune,Hadapsar,Apartment,2,2,1299,6,18,0,Semi-furnished,8304000.0
+Delhi,Gurgaon,Apartment,2,1,1827,15,16,1,Furnished,17973000.0
+Bengaluru,Electronic City,Apartment,2,2,945,0,24,1,Unfurnished,4440000.0
+Kolkata,Salt Lake,Apartment,4,3,2138,21,0,1,Furnished,14396000.0
+Pune,Hadapsar,Independent House,2,3,1046,17,17,1,Furnished,7757000.0
+Pune,Hinjewadi,Villa,2,3,1113,17,21,0,Unfurnished,8159000.0
